@@ -17,3 +17,5 @@
 {"message":"Bookmark with id 759f41b8-f9ee-4da8-99ed-e27a8c87b98d not found","level":"error"}
 {"message":"Bookmark with id fe19572b-db0c-4560-b34e-b25add6ae846 deleted.","level":"info"}
 {"message":"Bookmark with id fe19572b-db0c-4560-b34e-b25add6ae846 not found","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/","level":"error"}
