@@ -5,7 +5,15 @@
 {"message":"Url is required","level":"error"}
 {"message":"Url is required","level":"error"}
 {"message":"Url is required","level":"error"}
-<<<<<<< HEAD
-=======
 {"message":"Url is required","level":"error"}
->>>>>>> aa287149cbaf198c89571a9a148ad48cff743528
+{"message":"rating is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Bookmark with id 759f41b8-f9ee-4da8-99ed-e27a8c87b98d not found","level":"error"}
+{"message":"Bookmark with id 759f41b8-f9ee-4da8-99ed-e27a8c87b98d not found","level":"error"}
+{"message":"Bookmark with id 759f41b8-f9ee-4da8-99ed-e27a8c87b98d not found","level":"error"}
+{"message":"Bookmark with id fe19572b-db0c-4560-b34e-b25add6ae846 deleted.","level":"info"}
+{"message":"Bookmark with id fe19572b-db0c-4560-b34e-b25add6ae846 not found","level":"error"}
