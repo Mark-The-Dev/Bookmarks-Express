@@ -33,7 +33,7 @@ bookmarksRouter
         .status(400)
         .send('Invalid data');
     }
-    if (!rating || rating < 1 || rating > 5) {
+    if (!rating || rating < 1 || rating > 5 ) {
       logger.error(`rating is required`);
       return res
         .status(400)
@@ -47,7 +47,7 @@ bookmarksRouter
       title,
       url,
       description,
-      rating,
+      rating: parseInt(rating),
     };
 
     bookmarks.push(newBookmark);
